@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HarryPotter</string>
+    <string-array name="HarryPotter">
+        <item>Ravenclaw</item>
+        <item>Slytherin</item>
+        <item>Gryffindor</item>
+        <item>Hufflepuff</item>
+    </string-array>
+</resources>
